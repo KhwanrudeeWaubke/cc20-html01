@@ -1,0 +1,55 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black
+}
+.class1{
+  border-right: 1px solid gray; padding:4px;
+}
+.photo {
+  width: 25px; vertical-align: middle;
+  
+  
+}
+.photos1 {
+  width: 20px; vertical-align: middle;
+}
+
+.box {
+  border: 1px solid gray;
+  padding: 32px;
+  width: 600px;
+  border-radius: 8px;
+}
+
+input,
+    select,
+    textarea {
+      width: 100%;
+      margin-bottom: 12px;
+      font-size: 20px;
+      padding: 8px;
+      border: 1px solid silver
+      
+    }
+
+    .box1 {
+     width: 30%; 
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  
+
+     
+    }
+    .work1{
+      background-color: #d0eaff;
+    }
+
+    .photopng {
+      width : 120px; border-radius: 50%;
+    }
